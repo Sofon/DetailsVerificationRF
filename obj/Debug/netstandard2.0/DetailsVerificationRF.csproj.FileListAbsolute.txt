@@ -1,0 +1,8 @@
+C:\Users\Sofon\source\repos\DetailsVerificationRF\DetailsVerificationRF\bin\Debug\netstandard2.0\DetailsVerificationRF.deps.json
+C:\Users\Sofon\source\repos\DetailsVerificationRF\DetailsVerificationRF\bin\Debug\netstandard2.0\DetailsVerificationRF.dll
+C:\Users\Sofon\source\repos\DetailsVerificationRF\DetailsVerificationRF\bin\Debug\netstandard2.0\DetailsVerificationRF.pdb
+C:\Users\Sofon\source\repos\DetailsVerificationRF\DetailsVerificationRF\obj\Debug\netstandard2.0\DetailsVerificationRF.csprojAssemblyReference.cache
+C:\Users\Sofon\source\repos\DetailsVerificationRF\DetailsVerificationRF\obj\Debug\netstandard2.0\DetailsVerificationRF.AssemblyInfoInputs.cache
+C:\Users\Sofon\source\repos\DetailsVerificationRF\DetailsVerificationRF\obj\Debug\netstandard2.0\DetailsVerificationRF.AssemblyInfo.cs
+C:\Users\Sofon\source\repos\DetailsVerificationRF\DetailsVerificationRF\obj\Debug\netstandard2.0\DetailsVerificationRF.dll
+C:\Users\Sofon\source\repos\DetailsVerificationRF\DetailsVerificationRF\obj\Debug\netstandard2.0\DetailsVerificationRF.pdb
